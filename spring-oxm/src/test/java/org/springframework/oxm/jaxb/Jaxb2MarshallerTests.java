@@ -12,7 +12,8 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- */
+ *//*
+
 
 package org.springframework.oxm.jaxb;
 
@@ -73,11 +74,13 @@ import static org.xmlunit.diff.DifferenceEvaluators.chain;
 import static org.xmlunit.diff.DifferenceEvaluators.downgradeDifferencesToEqual;
 import static org.xmlunit.matchers.CompareMatcher.isSimilarTo;
 
+*/
 /**
  * @author Arjen Poutsma
  * @author Biju Kunjummen
  * @author Sam Brannen
- */
+ *//*
+
 public class Jaxb2MarshallerTests extends AbstractMarshallerTests<Jaxb2Marshaller> {
 
 	private static final String CONTEXT_PATH = "org.springframework.oxm.jaxb.test";
@@ -416,3 +419,4 @@ public class Jaxb2MarshallerTests extends AbstractMarshallerTests<Jaxb2Marshalle
 	}
 
 }
+*/
